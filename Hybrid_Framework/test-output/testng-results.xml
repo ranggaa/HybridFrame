@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[No of rows are::5]]>
+    </line>
+    <line>
+      <![CDATA[New Employer Created838 Successfully]]>
+    </line>
+    <line>
+      <![CDATA[New Employer Created839 Successfully]]>
+    </line>
+    <line>
+      <![CDATA[New Employer Created840 Successfully]]>
+    </line>
+    <line>
+      <![CDATA[New Employer Created841 Successfully]]>
+    </line>
+    <line>
+      <![CDATA[New Employer Created842 Successfully]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-06-24T05:29:52Z" name="Default suite" finished-at="2023-06-24T05:30:42Z" duration-ms="50148">
+    <groups>
+    </groups>
+    <test started-at="2023-06-24T05:29:52Z" name="Default test" finished-at="2023-06-24T05:30:42Z" duration-ms="50148">
+      <class name="driverFactory.TestScript">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:driverFactory.TestScript@49ff7d8c]" started-at="2023-06-24T10:59:52Z" name="setUp" finished-at="2023-06-24T10:59:58Z" duration-ms="6346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="startTest()[pri:0, instance:driverFactory.TestScript@49ff7d8c]" started-at="2023-06-24T10:59:58Z" name="startTest" finished-at="2023-06-24T11:00:40Z" duration-ms="41883" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[No of rows are::5]]>
+            </line>
+            <line>
+              <![CDATA[New Employer Created838 Successfully]]>
+            </line>
+            <line>
+              <![CDATA[New Employer Created839 Successfully]]>
+            </line>
+            <line>
+              <![CDATA[New Employer Created840 Successfully]]>
+            </line>
+            <line>
+              <![CDATA[New Employer Created841 Successfully]]>
+            </line>
+            <line>
+              <![CDATA[New Employer Created842 Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:driverFactory.TestScript@49ff7d8c]" started-at="2023-06-24T11:00:40Z" name="tearDown" finished-at="2023-06-24T11:00:42Z" duration-ms="1859" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- driverFactory.TestScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
